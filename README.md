@@ -2,7 +2,7 @@
 I built a Sequential model with the VGG16 network 
 
 # prerequisite:
-<br tensrfolw />
-Keras
-VGG16
-dataset cat and dog 
+tensrfolw <hr/>
+Keras <hr/>
+VGG16 <hr/>
+dataset cat and dog <hr/>
